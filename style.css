@@ -1,2 +1,75 @@
+/* commons css */
+.container {
+    width: 90%;
+    margin: 0 auto;
+    font-family: 'Poppins';
+}
+/* Navbar Section css */
+.navbar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10vh 0;
+    font-family: 'Orbitron';
+}
+.logo img {
+    width: 60%;
+}
+.list {
+    list-style-type: none;
+}
+.list-item {
+    display: inline-block;
+    margin: 0 10px;
+}
+.button-group {
+    display: flex;
+    align-items: center;
+}
 
-
+/* Hero Banner Section css */
+.hero-container {
+    display: flex;
+    position: relative;
+}
+.hero-container-left {
+    width: 40%;
+}
+.star {
+    position: absolute;
+    top: 10%;
+    right: 0;
+}
+.star img {
+    width: 50%;
+}
+.globe {
+    position: absolute;
+    left: 50%;
+}
+.globe img {
+    width: 50%;
+}
+.square {
+    position: absolute;
+    top : 40%;
+    left : 10%;
+}
+.square img{
+    width: 60%;
+}
+.man {
+    position: absolute
+}
+.man img {
+    width: 55%;
+}
+.hero-container-right {
+    width: 60%;
+    margin-top: 10vh;
+    text-align: center;
+}
+.hero-heading {
+    font-family: 'Orbitron';
+    font-size: 42px;
+}
