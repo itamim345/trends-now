@@ -1,6 +1,6 @@
 /* commons css */
 .container {
-    width: 90%;
+    width: 80%;
     margin: 0 auto;
     font-family: 'Poppins';
 }
@@ -21,10 +21,17 @@
 .list-item {
     display: inline-block;
     margin: 0 10px;
+    font-weight: 700;
 }
 .button-group {
     display: flex;
     align-items: center;
+    gap : 10px;
+}
+.nav-button {
+    padding: 5px 25px;
+    border-radius: 8px;
+    background: transparent;
 }
 
 /* Hero Banner Section css */
@@ -52,8 +59,8 @@
 }
 .square {
     position: absolute;
-    top : 40%;
-    left : 10%;
+    top: 38%;
+    left: 10%;
 }
 .square img{
     width: 60%;
@@ -71,5 +78,23 @@
 }
 .hero-heading {
     font-family: 'Orbitron';
-    font-size: 42px;
+    font-size: 40px;
+}
+.button-email{
+    padding: 3px 15px;
+    background: transparent;
+    border-radius: 8px;
+    font-family: 'Orbitron';
+}
+.button-join {
+    color: white;
+    background: black;
+    padding: 3px 15px;
+    border-radius: 8px;
+    font-family: 'Orbitron';
+}
+
+.icons img {
+    width: 5%;
+    margin: 0 5px;
 }
