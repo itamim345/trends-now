@@ -29,9 +29,11 @@
     gap : 10px;
 }
 .nav-button {
+    border: 2px solid black;
     padding: 5px 25px;
     border-radius: 8px;
     background: transparent;
+    cursor: pointer;
 }
 
 /* Hero Banner Section css */
