@@ -1,4 +1,4 @@
-# I'm Abudl FAttah Tamim
+# I'm Abdul Fattah Tamim
 
 **In this project mostle it focused on CSS position, and also I have used flex and etc**
 
