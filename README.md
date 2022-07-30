@@ -5,8 +5,8 @@
 ### IT has taken 2-3 hrs to complete
 
 *preview*
-![image](trends-now.png)
+![image](/trends-now.png)
 
-[welcome to google](https://trends-now-landing-page01.netlify.app/)
+[Live Link](https://trends-now-landing-page01.netlify.app/)
 
 
