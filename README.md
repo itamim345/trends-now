@@ -1,6 +1,6 @@
 # I'm Abdul Fattah Tamim
 
-**In this project mostle it focused on CSS position, and also I have used flex and etc**
+**In this project mostly it focused on CSS position, and also I have used flex and etc**
 
 *It has taken 2-3 hrs to complete*
 
