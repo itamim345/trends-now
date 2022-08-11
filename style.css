@@ -132,6 +132,13 @@
         gap: 3vw;
         margin: 5vh 0;
     }
+    .list {
+        text-align: center;
+    }
+    .logo img {
+        height: 50%;
+        width: auto;
+    }
     .hero-container-right {
         margin-top: 55vw;
     }
