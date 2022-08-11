@@ -125,7 +125,7 @@
     }
 }
 
-/* Responsive CSS for Medium Screen */
+/* Responsive CSS for Small Screen */
 @media(max-width: 768px){
     .navbar-container {
         flex-direction: column;
