@@ -100,3 +100,40 @@
     width: 5%;
     margin: 0 5px;
 }
+
+/* Responsive CSS for Medium Screen */
+@media(max-width: 992px){
+    .hero-container {
+        flex-direction: column;
+    }
+    .hero-container-left {
+        width: 100%;
+    }
+    .square {
+        top: 17vw;
+        left: 12vw;
+    }
+    .globe {
+        left: 50vw;
+    }
+    .star {
+        top: 10vw;
+    }
+    .hero-container-right {
+        width: 100%;
+        margin-top: 50vw;
+    }
+}
+
+/* Responsive CSS for Medium Screen */
+@media(max-width: 768px){
+    .navbar-container {
+        flex-direction: column;
+        gap: 3vw;
+        margin: 5vh 0;
+    }
+    .hero-container-right {
+        margin-top: 55vw;
+    }
+}
+
